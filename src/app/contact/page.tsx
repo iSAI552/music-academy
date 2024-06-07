@@ -7,6 +7,7 @@ export default function page() {
             <div className="bg-gray-900 h-auto md:h-[44rem] w-full rounded-md flex flex-col
         items-center justify-center relative overflow-hidden
          mx-auto py-10 md:py-0">
+            <Meteors />
             
                 <div className="md:mt-[10rem] p-4 relative z-10 w-full text-center">
                     <h1
